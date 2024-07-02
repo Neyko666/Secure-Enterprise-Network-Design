@@ -5,41 +5,41 @@ The company deploys a DMZ, 2 Cisco ASA firewall and has access to a cloud platfo
 
 <br>
 Technology Implemented:
-
+<br>
 • 3 tiers network architect
-
+<br>
 • IP subnetting
-
+<br>
 • VLAN
-
+<br>
 • Inter-vlan trunking (distribution switch SVI)
-
+<br>
 • Link aggregation (LACP)
-
+<br>
 • Redundancy (HSRP on distribution switches)
-
+<br>
 • Single-point failure prevention
-
+<br>
 • VoIP (telephony)
-
+<br>
 • Wireless LAN controller & lightweight access points
-
+<br>
 • OSPF single area (routing between ISP, FW and distribution switches)
-
+<br>
 • Static default route
-
+<br>
 • DHCP server (DMZ)
-
+<br>
 • NAT overload (PAT on ASA firewall)
-
+<br>
 • Zone-based policies (inside, outside, DMZ on ASA firewall)
-
+<br>
 • Standard and extended access control list (ACL)
-
+<br>
 • SSH (allow only sr engineer access to FW and layer 3 switches)
-
+<br>
 • Switch port security (portfast and bpduguard)
-
+<br>
 
 
 <br>
