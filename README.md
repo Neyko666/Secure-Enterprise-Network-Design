@@ -3,7 +3,7 @@ After many hours completed an enterprise network design and implementation proje
 
 The company deploys a DMZ, 2 Cisco ASA firewall and has access to a cloud platform.
 
-
+<br>
 Technology Implemented:
 
 • 3 tiers network architect
