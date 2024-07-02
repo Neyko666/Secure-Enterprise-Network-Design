@@ -1,5 +1,5 @@
 # Enterprise-network-design-with-DMZ-and-firewall
-After many hours completed an enterprise network design and implementation project on Cisco pkt.
+An enterprise network design and implementation project on Cisco pkt.
 
 The company deploys a DMZ, 2 Cisco ASA firewall and has access to a cloud platform.
 
