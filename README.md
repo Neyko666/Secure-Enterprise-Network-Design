@@ -6,6 +6,7 @@ The company deploys a DMZ, 2 Cisco ASA firewall and has access to a cloud platfo
 <br>
 Technology Implemented:
 <br>
+<br>
 • 3 tiers network architect
 <br>
 • IP subnetting
